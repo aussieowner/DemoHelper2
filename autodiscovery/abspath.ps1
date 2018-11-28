@@ -1,0 +1,2 @@
+$absPath = $scriptPath + "\.."
+
